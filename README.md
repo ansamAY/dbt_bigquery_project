@@ -45,7 +45,7 @@ README.md - Project documentation
 ### Clone the Repository  
 
 ```sh
-git clone https://github.com/your-username/dbt_bigquery_project.git
+git clone https://github.com/ansamAY/dbt_bigquery_project.git
 cd dbt_bigquery_project
 ```
 
